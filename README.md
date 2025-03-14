@@ -66,24 +66,5 @@
   - `client_id` (必填): 客户端 ID。
   - `email` (必填): 邮箱地址。
 
-## 🖼️ 效果图
 
-![Demo](https://raw.githubusercontent.com/HChaoHui/msOauth2api/refs/heads/main/img/demo.png)
-
-## 🤝 贡献
-
-欢迎大家贡献代码！如果你有任何问题或建议，请提交 [Issue](https://github.com/HChaoHui/msOauth2api/issues) 或联系作者邮箱：**[z@unix.xin]**。
-
-## 📜 许可证
-
-本项目采用 [MIT 许可证](LICENSE)。
-
-## 💖 支持
-
-如果你喜欢这个项目，欢迎给它一个 Star ⭐️ 或者进行赞助：
-
-![Buy](https://github.com/HChaoHui/msOauth2api/blob/main/img/Buy.JPG?raw=true)
-
----
-
-**Happy Coding!** 🎉
+如果你有任何问题或建议，请提交 [Issue](https://github.com/113429/msOauth2api/issues)
